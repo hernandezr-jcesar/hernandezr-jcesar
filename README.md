@@ -2,8 +2,8 @@
 
 <h2> ESCOM  Projects</h2>
 
-<b> Programming Fundamentals: </b>
-- [Files](https://github.com/hernandezr-jcesar/Programming-Fundamentals)
+<b> First Semester: </b>
+- [Programming Fundamentals](https://github.com/hernandezr-jcesar/Programming-Fundamentals)
 
 
 
