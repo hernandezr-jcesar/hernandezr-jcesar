@@ -5,6 +5,10 @@
 <b> First Semester: </b>
 - [Programming Fundamentals](https://github.com/hernandezr-jcesar/Programming-Fundamentals)
 
+<b> Second Semester: </b>
+- [Algorithms And Data Structures](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures)
+
+
 
 
 
