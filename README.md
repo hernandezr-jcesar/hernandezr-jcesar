@@ -6,6 +6,11 @@
 
 <b> Second Semester: </b>       [Algorithms And Data Structures](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures)
 
+<b> Third Semester: </b>       [Analysis And Design Of Algorithms](https://github.com/hernandezr-jcesar/Analysis-And-Design-Of-Algorithms)   |   [Programming Paradigms](https://github.com/hernandezr-jcesar/Programming-Paradigms) 
+
+
+
+
 
 
 
