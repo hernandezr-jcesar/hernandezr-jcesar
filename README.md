@@ -12,7 +12,7 @@
 
 <b> Fifth Semester: </b>       [Compilers](https://github.com/hernandezr-jcesar/Compilers)
 
-
+<b> Sixth Semester: </b>       [Aplications For Network Communications](https://github.com/hernandezr-jcesar/Applications-For-Network-Communications)  |  [Artificial Intelligence](https://github.com/hernandezr-jcesar/Artificial-Intelligence)  |  [Computer Security](https://github.com/hernandezr-jcesar/Computer-Security)  |  [Introduction To Cryptography](https://github.com/hernandezr-jcesar/Introduction-To-Cryptography)
 
 
 
